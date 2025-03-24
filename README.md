@@ -1,1 +1,3 @@
-You will find some projects or assignments in the field of quantitative finance. 
+Maxime Gressé 
+MSc Quantitative Finance at Bocconi University 
+Here are just a few of the quantitative finance projects and assignments I have undertaken this year. 
